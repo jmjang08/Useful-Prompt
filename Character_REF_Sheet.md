@@ -1,8 +1,7 @@
 Create a single unified MASTER CHARACTER REFERENCE SHEET from these inputs:
 
 [STYLE]: anime, stylized 3d
-[SUBJECT_DESCRIPTION]: 바다숲 용왕 캐릭터, 황금색의 옷을 입고있다. -> 요건 예시구요
-저는 장원영 사진 올리고 사진 그대로 라고 적었어여 위에 스타일도 애니메 스타일즈드쓰리디 지우고 실사화 하고 싶으면 Photorealistic 라고 적으면 되용!
+[SUBJECT_DESCRIPTION]:
 
 Create the board in a 4:3 horizontal layout. The board layout,
 background, typography and spacing must be clean, neutral,
